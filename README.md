@@ -1,100 +1,92 @@
-# H — Technologie Souveraine 🚀
+# H — Studio Technologique & Académie
 
-> **La technologie ne doit pas seulement exister. Elle doit servir, élever et protéger.**
+> **Ingénierie Logicielle · Cybersécurité · Intelligence Artificielle · RDC**
 
----
-
-## 🎯 Le Manifeste
-
-**H** (anciennement HMB-TECH) est plus qu'une entreprise technologique. C'est un mouvement qui réinvente le rapport entre l'humain et la technologie.
-
-Nous vivons dans un monde où le numérique façonne les sociétés, les économies et les relations humaines. Pourtant, une grande partie de cette technologie reste :
-- ❌ Inaccessible
-- ❌ Fragile
-- ❌ Dépendante
-
-### Notre Conviction
-
-Le futur numérique doit être construit avec :
-- ✨ **Intelligence** — Des solutions pensées, optimisées, performantes
-- 🔓 **Liberté** — Une technologie qui crée l'indépendance
-- 🛡️ **Sécurité** — La protection au cœur de chaque décision
+[![Website](https://img.shields.io/badge/Site%20Principal-hmbtech.dev-blue?style=flat-square&logo=google-chrome)](https://www.hmbtech.dev)
+[![Academy](https://img.shields.io/badge/Académie-h--academy.tech-purple?style=flat-square&logo=google-chrome)](https://www.h-academy.tech)
+[![Electronics](https://img.shields.io/badge/Électronique-h--electronics.tech-green?style=flat-square&logo=google-chrome)](https://www.h-electronics.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HMB--TECH-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/hmb-tech-rdc/)
+[![GitHub](https://img.shields.io/badge/GitHub-H--243--DEV-181717?style=flat-square&logo=github)](https://github.com/H-243-DEV)
 
 ---
 
-## 🌍 Qui sommes-nous ?
+## 🏢 À propos de H Studio
 
-Nous sommes des **bâtisseurs numériques** convaincus que l'innovation peut naître partout dans le monde, y compris en République Démocratique du Congo. Notre mission est de créer des technologies qui :
+**H** est un studio d'ingénierie logicielle basé à **Kinshasa, République Démocratique du Congo**, spécialisé dans :
 
-- **Simplifient la vie** — Pas de complications inutiles
-- **Créent l'indépendance** — Des solutions autonomes et adaptées
-- **Protègent l'utilisateur** — La vie privée est inviolable
-
----
-
-## 🏗️ Ce que nous construisons
-
-### 📱 Applications & Plateformes
-- Applications web modernes et réactives
-- Plateformes numériques intelligentes
-- Écosystèmes numériques complets
-
-### 🤖 IA & Automatisation
-- Systèmes automatisés alimentés par l'intelligence artificielle
-- Algorithmes capables de résoudre des tâches complexes
-- Solutions d'automatisation sur mesure
-
-### 🔒 Cybersécurité Avancée
-- Architectures hautement sécurisées et résilientes
-- Solutions de sécurité proactives
-- Protection des données par conception
-
-### 💡 Innovation & R&D
-- Exploration de nouvelles architectures web
-- Interfaces numériques de pointe
-- Recherche continue sur les technologies de demain
+- 🖥️ **Développement SaaS & Applications Web** — Plateformes cloud évolutives et solutions métiers sur mesure
+- 📱 **Applications Mobiles** — Natives iOS/Android avec expérience hors-ligne
+- 🤖 **Intelligence Artificielle** — Agents autonomes, automatisation de processus et analyse prédictive
+- 🔐 **Cybersécurité** — Audit, chiffrement de bout en bout et monitoring 24/7
+- 🎓 **Académie H** — Formation intensive de développeurs en RDC (React, Next.js, Python, Cybersécurité)
 
 ---
 
-## 📚 Nos Projets Phares
+## 🌐 Nos Domaines
 
-### **H-BIBLE** 📖
-Une application biblique magnifiée par la technologie. La Parole de Dieu, accessible à tous, anytime, anywhere.
-
-- ✅ Disponible sur Android
-- 📲 Téléchargement officiel via GitHub Releases
-- 🌐 Prochainement sur Play Store, App Store et Microsoft Store
-
-**[Explorer H-BIBLE →](https://h-dev-243.github.io/h-manifesto/h-bible)**
+| Domaine | Description |
+|---------|-------------|
+| [**www.hmbtech.dev**](https://www.hmbtech.dev) | Site principal — Manifesto, services et vision du studio |
+| [**www.h-academy.tech**](https://www.h-academy.tech) | Académie H — Formation technologique de haut niveau |
+| [**www.h-electronics.tech**](https://www.h-electronics.tech) | H Electronics — Hardware et solutions électroniques |
+| [**www.hbible.app**](https://www.hbible.app) | H-BIBLE — Application biblique Android & Web |
 
 ---
 
-## 📖 Pages du Manifeste
+## 📱 Nos Applications
 
-| Section | Thème | Vision |
-|---------|-------|--------|
-| **Vision** | Fondations | Nous croyons en une technologie différente |
-| **Mission** | Notre ADN | Un futur numérique intelligent, accessible, sécurisé |
-| **Création** | Bâtisseurs | Construire plutôt que consommer |
-| **Innovation** | R&D | L'innovation comme moteur de transformation |
-| **Sécurité** | Garantie | La sécurité par conception |
+### H-BIBLE
+Application de lecture biblique nouvelle génération, gratuite et sans publicité.
+- 📥 [Télécharger l'APK](https://www.hmbtech.dev/h-bible)
+- ✨ Expérience fluide et hors-ligne
+- 🌍 Disponible sur Android (Play Store & APK direct)
 
 ---
 
-## 🚀 Stack Technologique
+## 🛠️ Stack Technique de ce Projet
 
-```json
-{
-  "framework": "Next.js 15",
-  "runtime": "TypeScript",
-  "styling": "CSS Modules + Glassmorphism",
-  "frontend": "React 18",
-  "backend": "Firebase + Cloudflare Workers",
-  "deployment": "Cloudflare Pages",
-  "languages": [
-    "TypeScript (70.4%)",
-    "CSS (18.9%)",
-    "Vue (9.8%)",
-    "JavaScript (0.9%)"
-  ]
-}
+```
+Framework   : Next.js 15 (App Router)
+Langage     : TypeScript
+Déploiement : Cloudflare Pages
+Fonts       : Outfit + Righteous (Google Fonts)
+3D          : Three.js / React Three Fiber
+Auth/DB     : Firebase
+CDN/Sécu    : Cloudflare
+```
+
+---
+
+## 🚀 Lancer le projet en local
+
+```bash
+# Installer les dépendances
+npm install
+
+# Démarrer le serveur de développement
+npm run dev
+
+# Build pour Cloudflare Pages
+npm run pages:build
+
+# Déployer sur Cloudflare Pages
+npm run pages:deploy
+```
+
+Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+---
+
+## 📬 Contact
+
+| Canal | Lien |
+|-------|------|
+| Email | [hans-hugo.mbaya@hmbtech.dev](mailto:hans-hugo.mbaya@hmbtech.dev) |
+| WhatsApp | [+243 842 199 325](https://wa.me/243842199325) |
+| LinkedIn | [HMB-TECH RDC](https://www.linkedin.com/company/hmb-tech-rdc/) |
+| Instagram | [@hmb_tech](https://www.instagram.com/hmb_tech/) |
+| GitHub | [H-243-DEV](https://github.com/H-243-DEV) |
+
+---
+
+*© 2024–2026 H Sarl. — Kinshasa, République Démocratique du Congo. Tous droits réservés.*
